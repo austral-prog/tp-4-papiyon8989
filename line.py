@@ -1,7 +1,6 @@
 import math
 def line():
     
-
     a= float(input(""))
     b= float(input(""))
     x1= float(input(""))
